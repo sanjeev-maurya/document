@@ -21,7 +21,7 @@ sudo nvim nginx.conf
 ```bash
 sudo nginx -t 
 ```
-the restart the server
+Then restart the server
 
 ```bash
 sudo systemctl restart nginx
